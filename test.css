@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols+2&family=Poppins:wght@500&display=swap');
+body{
+    background-image: url('https://wallpaperaccess.com/full/478290.jpg');
+    backdrop-filter: blur(4px);
+    background-size: cover;
+}
+#coltwo{
+    background-size: cover;
+}
+#boxxxx{
+    height: 500px;
+    
+}
+#heading{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+html{
+    overflow-x: hidden;
+}
